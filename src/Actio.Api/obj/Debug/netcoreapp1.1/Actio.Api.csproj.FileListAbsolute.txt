@@ -1,0 +1,11 @@
+C:\work\MicroServices\src\Actio.Api\bin\Debug\netcoreapp1.1\Actio.Api.deps.json
+C:\work\MicroServices\src\Actio.Api\bin\Debug\netcoreapp1.1\Actio.Api.runtimeconfig.json
+C:\work\MicroServices\src\Actio.Api\bin\Debug\netcoreapp1.1\Actio.Api.runtimeconfig.dev.json
+C:\work\MicroServices\src\Actio.Api\bin\Debug\netcoreapp1.1\Actio.Api.dll
+C:\work\MicroServices\src\Actio.Api\bin\Debug\netcoreapp1.1\Actio.Api.pdb
+C:\work\MicroServices\src\Actio.Api\bin\Debug\netcoreapp1.1\Actio.Common.dll
+C:\work\MicroServices\src\Actio.Api\bin\Debug\netcoreapp1.1\Actio.Common.pdb
+C:\work\MicroServices\src\Actio.Api\obj\Debug\netcoreapp1.1\Actio.Api.csproj.CoreCompileInputs.cache
+C:\work\MicroServices\src\Actio.Api\obj\Debug\netcoreapp1.1\Actio.Api.AssemblyInfo.cs
+C:\work\MicroServices\src\Actio.Api\obj\Debug\netcoreapp1.1\Actio.Api.dll
+C:\work\MicroServices\src\Actio.Api\obj\Debug\netcoreapp1.1\Actio.Api.pdb

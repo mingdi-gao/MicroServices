@@ -1,0 +1,11 @@
+C:\work\MicroServices\src\Actio.Services.Identity\bin\Debug\netcoreapp1.1\Actio.Services.Identity.deps.json
+C:\work\MicroServices\src\Actio.Services.Identity\bin\Debug\netcoreapp1.1\Actio.Services.Identity.runtimeconfig.json
+C:\work\MicroServices\src\Actio.Services.Identity\bin\Debug\netcoreapp1.1\Actio.Services.Identity.runtimeconfig.dev.json
+C:\work\MicroServices\src\Actio.Services.Identity\bin\Debug\netcoreapp1.1\Actio.Services.Identity.dll
+C:\work\MicroServices\src\Actio.Services.Identity\bin\Debug\netcoreapp1.1\Actio.Services.Identity.pdb
+C:\work\MicroServices\src\Actio.Services.Identity\bin\Debug\netcoreapp1.1\Actio.Common.dll
+C:\work\MicroServices\src\Actio.Services.Identity\bin\Debug\netcoreapp1.1\Actio.Common.pdb
+C:\work\MicroServices\src\Actio.Services.Identity\obj\Debug\netcoreapp1.1\Actio.Services.Identity.csproj.CoreCompileInputs.cache
+C:\work\MicroServices\src\Actio.Services.Identity\obj\Debug\netcoreapp1.1\Actio.Services.Identity.AssemblyInfo.cs
+C:\work\MicroServices\src\Actio.Services.Identity\obj\Debug\netcoreapp1.1\Actio.Services.Identity.dll
+C:\work\MicroServices\src\Actio.Services.Identity\obj\Debug\netcoreapp1.1\Actio.Services.Identity.pdb

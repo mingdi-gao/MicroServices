@@ -1,0 +1,11 @@
+C:\work\MicroServices\src\Actio.Services.Activities\bin\Debug\netcoreapp1.1\Actio.Services.Activities.deps.json
+C:\work\MicroServices\src\Actio.Services.Activities\bin\Debug\netcoreapp1.1\Actio.Services.Activities.runtimeconfig.json
+C:\work\MicroServices\src\Actio.Services.Activities\bin\Debug\netcoreapp1.1\Actio.Services.Activities.runtimeconfig.dev.json
+C:\work\MicroServices\src\Actio.Services.Activities\bin\Debug\netcoreapp1.1\Actio.Services.Activities.dll
+C:\work\MicroServices\src\Actio.Services.Activities\bin\Debug\netcoreapp1.1\Actio.Services.Activities.pdb
+C:\work\MicroServices\src\Actio.Services.Activities\bin\Debug\netcoreapp1.1\Actio.Common.dll
+C:\work\MicroServices\src\Actio.Services.Activities\bin\Debug\netcoreapp1.1\Actio.Common.pdb
+C:\work\MicroServices\src\Actio.Services.Activities\obj\Debug\netcoreapp1.1\Actio.Services.Activities.csproj.CoreCompileInputs.cache
+C:\work\MicroServices\src\Actio.Services.Activities\obj\Debug\netcoreapp1.1\Actio.Services.Activities.AssemblyInfo.cs
+C:\work\MicroServices\src\Actio.Services.Activities\obj\Debug\netcoreapp1.1\Actio.Services.Activities.dll
+C:\work\MicroServices\src\Actio.Services.Activities\obj\Debug\netcoreapp1.1\Actio.Services.Activities.pdb
