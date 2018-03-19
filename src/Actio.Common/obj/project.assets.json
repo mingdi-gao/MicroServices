@@ -3727,6 +3727,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://ash-jenkins03.meshdomain.ixicorp.com/nexus/repository/nuget-hosted/": {},
+        "http://ash-wsonar01:8000/nuget/": {},
+        "http://builds/nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

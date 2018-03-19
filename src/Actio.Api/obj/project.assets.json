@@ -3574,6 +3574,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Actio.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.4",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "bin/placeholder/Actio.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Actio.Common.dll": {}
+        }
       }
     }
   },
@@ -9582,11 +9595,16 @@
         "system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Actio.Common/1.0.0": {
+      "type": "project",
+      "path": "../Actio.Common/Actio.Common.csproj",
+      "msbuildProject": "../Actio.Common/Actio.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
-      "C:\\work\\MicroServices\\src\\Actio.Common\\Actio.Common.csproj",
+      "Actio.Common >= 1.0.0",
       "Microsoft.AspNetCore >= 1.1.2",
       "Microsoft.AspNetCore.Mvc >= 1.1.3",
       "Microsoft.Extensions.Logging.Debug >= 1.1.2",
@@ -9618,6 +9636,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://ash-jenkins03.meshdomain.ixicorp.com/nexus/repository/nuget-hosted/": {},
+        "http://ash-wsonar01:8000/nuget/": {},
+        "http://builds/nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9656,16 +9676,5 @@
         ]
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\work\\MicroServices\\src\\Actio.Common\\Actio.Common.csproj'. The project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\work\\MicroServices\\src\\Actio.Common\\Actio.Common.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v1.1"
-      ]
-    }
-  ]
+  }
 }
